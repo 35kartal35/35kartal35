@@ -2,4 +2,4 @@
 
 Yaptığım 1. projenin güncellenmiş hali,
 
-Sygılarımla
+Saygılarımla
