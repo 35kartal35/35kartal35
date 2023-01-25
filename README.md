@@ -1,6 +1,8 @@
 # Hi I am Mehmet ÖZDEMİR
 
-## I was born on 15.09.1987 in Kayseri. I have
+## My job React - Frontend Developer
+
+I was born on 15.09.1987 in Kayseri. I have
 been residing in Izmir-Buca since 1994. I
 have been using a PC actively since 2000. I
 studied primary and high school in Buca. I
