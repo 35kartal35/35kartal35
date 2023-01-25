@@ -26,4 +26,4 @@ the projects I prepared using html, css, and
 Javascript. In CSS, I can shape my page
 according to my own desire. I work 4-5
 hours a day to learn new things in software.
-html5 logo css3 logo javascript logo typescript logo react logo Redux bootstrap logo sass logo Tailwind CSS Git nodejs logo bash logo figma logo firebase logo jira logo codepen logo slack logo trello logo photoshop logo yarn logo
+
