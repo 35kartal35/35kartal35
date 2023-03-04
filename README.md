@@ -1,6 +1,1 @@
-# Hi I am Mehmet ÖZDEMİR
-
-## My job React - Frontend Developer
-
-# Hello, I am creating projects with React. In these projects; I am using redux, Router dom, toolkit, RestApi. Css is handled with the help of Boostrap. Thanks. Enjoy your work.
-
+# ![CV - Kişisel - Microsoft​ Edge 4 03 2023 13_45_13](https://user-images.githubusercontent.com/114434307/222895683-2cb63f77-7169-457a-ad06-8fd2adadcb37.png)
