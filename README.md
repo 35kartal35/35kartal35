@@ -3,8 +3,10 @@
 
 <h3 align="left">Connect with me: 
 </br>
+  </br>
 Mobil : 0553 679 89 52
 </br>
+  </br>
   Mail : mozdemir3545@gmail.com
 </h3>
 <p align="left">
