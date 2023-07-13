@@ -2,6 +2,7 @@
 <h3 align="center">A passionate React && React Native developer from izmir</h3>
 
 <h3 align="left">Connect with me: 
+</br>
 Mobil : 0553 679 89 52
 </br>
   Mail : mozdemir3545@gmail.com
